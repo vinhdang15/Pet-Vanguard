@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Funix_Course\\2. Unity 2D\\Army\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7C8537-EA99-0DD4-5F8C-2C73E17F51EA}|Meryel.CodeAssist.Editor.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\plugins\\codeassist\\editor\\netmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7C8537-EA99-0DD4-5F8C-2C73E17F51EA}|Meryel.CodeAssist.Editor.csproj|solutionrelative:assets\\plugins\\codeassist\\editor\\netmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\bossmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\bossmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\shootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\shootingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\showdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\showdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\activebushbyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\activebushbyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\bossencountertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\bossencountertimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|E:\\Funix_Course\\2. Unity 2D\\Army\\assets\\2. script\\activebyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C37AA-BC05-643D-1E57-EBAA6D0B2C14}|Assembly-CSharp.csproj|solutionrelative:assets\\2. script\\activebyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetMQPublisher.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\Plugins\\CodeAssist\\Editor\\NetMQPublisher.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\CodeAssist\\Editor\\NetMQPublisher.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\Plugins\\CodeAssist\\Editor\\NetMQPublisher.cs",
+              "RelativeToolTip": "Assets\\Plugins\\CodeAssist\\Editor\\NetMQPublisher.cs",
+              "ViewState": "AQIAANQCAAAAAAAAAAD4v+MCAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:49:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActiveBushByPlayer.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ActiveBushByPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\ActiveBushByPlayer.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ActiveBushByPlayer.cs",
+              "RelativeToolTip": "Assets\\2. Script\\ActiveBushByPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:48:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActiveByPlayer.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ActiveByPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\ActiveByPlayer.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ActiveByPlayer.cs",
+              "RelativeToolTip": "Assets\\2. Script\\ActiveByPlayer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:20:12.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\HealthSystem.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\HealthSystem.cs",
+              "RelativeToolTip": "Assets\\2. Script\\HealthSystem.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:35:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowData.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ShowData.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\ShowData.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ShowData.cs",
+              "RelativeToolTip": "Assets\\2. Script\\ShowData.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:31:29.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BossEncounterTimer.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\BossEncounterTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\BossEncounterTimer.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\BossEncounterTimer.cs",
+              "RelativeToolTip": "Assets\\2. Script\\BossEncounterTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:24:00.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\GameSession.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\GameSession.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\GameSession.cs",
+              "RelativeToolTip": "Assets\\2. Script\\GameSession.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:25:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BossMovement.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\BossMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\BossMovement.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\BossMovement.cs",
+              "RelativeToolTip": "Assets\\2. Script\\BossMovement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:32:25.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\EnemyMovement.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\2. Script\\EnemyMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:36:31.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\Bullet.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\2. Script\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:13:16.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\PlayerMovement.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\2. Script\\PlayerMovement.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAmwKYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:44:42.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShootingSystem.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ShootingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\ShootingSystem.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\ShootingSystem.cs",
+              "RelativeToolTip": "Assets\\2. Script\\ShootingSystem.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:06:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NPCMovement.cs",
+              "DocumentMoniker": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\NPCMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\2. Script\\NPCMovement.cs",
+              "ToolTip": "E:\\Funix_Course\\2. Unity 2D\\Army\\Assets\\2. Script\\NPCMovement.cs",
+              "RelativeToolTip": "Assets\\2. Script\\NPCMovement.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA7wC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:11:13.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

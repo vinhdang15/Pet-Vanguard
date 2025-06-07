@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flatform
+  - Enemy
+  - Trap
+  - Interactables
+  - Gold
+  - Rubi
+  - NPC
+  - EnemyBullet
+  - NPCBullet
+  - Bush
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Flatform
+  - Player
+  - Trap
+  - Enemies
+  - NPCBullet
+  - Interactables
+  - BackGround
+  - NPC
+  - EnemiesBullet
+  - Bush
+  - EnemyFoot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1442852877
+    locked: 0
+  - name: Flatform
+    uniqueID: 3350300057
+    locked: 0
+  - name: Trap
+    uniqueID: 1704966825
+    locked: 0
+  - name: Bullet
+    uniqueID: 1801668329
+    locked: 0
+  - name: Interactables
+    uniqueID: 2742756943
+    locked: 0
+  - name: Bush
+    uniqueID: 753099611
+    locked: 0
+  - name: Enemies
+    uniqueID: 3269567711
+    locked: 0
+  - name: Player
+    uniqueID: 918628963
+    locked: 0
+  - name: NPC
+    uniqueID: 62623091
+    locked: 0
